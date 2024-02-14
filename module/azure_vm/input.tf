@@ -33,6 +33,9 @@ variable "virtual_network_name" {
 variable "subnet_name" {
   description = "The name of the subnet."
 }
+variable "public_ip_name" {
+  description = "The name of the public IP address."
+}
 
 variable "network_interface_name" {
   description = "The name of the network interface."
