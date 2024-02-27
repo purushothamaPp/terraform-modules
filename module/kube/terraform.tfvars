@@ -1,0 +1,12 @@
+environment             = "public"
+subscription_id         = "44660563-bf97-4629-b923-168922355073"
+client_id               = "c3ff2dec-1663-4316-9f47-2bbf82c8c8f1"
+client_secret           = "dxv8Q~xwE8kK6OHa4CGeQrb6wzqIZCVirCZMudtT"
+tenant_id               = "b7bb91e9-61fe-4dce-98ad-d16739345d98"
+resource_group_name     = "azureuser_group"
+location                = "East US"
+cluster_name            = "myAKSCluster"
+dns_prefix              = "myakscluster"
+node_count              = 3
+vm_size                 = "Standard_DS2_v2"
+os_disk_size_gb         = 30
